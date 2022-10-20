@@ -2,4 +2,4 @@
 
 | Homework                    | Артём   | Данил   | Камилла |
 | --------------------------- |:----------------------------------:|:----------------------------------:|:---------------------------------:|
-| Lists and strings           |![50%](https://progress-bar.dev/50/)|![50%](https://progress-bar.dev/50/)|![50%](https://progress-bar.dev/50/)|
+| Lists and strings           |![100%](https://progress-bar.dev/100/)|![50%](https://progress-bar.dev/50/)|![50%](https://progress-bar.dev/50/)|
