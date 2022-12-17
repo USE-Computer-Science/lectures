@@ -8,7 +8,7 @@
 | Task 8. Combinatorics            |![150%](https://progress-bar.dev/150/)|![150%](https://progress-bar.dev/150/)|![105%](https://progress-bar.dev/105/)|
 | Task 9. Spreadsheets             |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
 | Task 13. Directed graphs          |![100%](https://progress-bar.dev/100/)|![90%](https://progress-bar.dev/90/)|![80%](https://progress-bar.dev/80/)|
-| Task 16. Recursion               |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)| 
+| Task 16. Recursion               |![25%](https://progress-bar.dev/25/)|![0%](https://progress-bar.dev/0/)|![10%](https://progress-bar.dev/10/)| 
 | Task 17. Numerical series        |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)| 
 
 
