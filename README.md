@@ -12,7 +12,7 @@
 | Task 17. Numerical series        |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
 | Task 19. Game theory. One heap   |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
 | Task 20. Game theory. Two heaps  |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
-| Task 20. Game theory. Сhallenges |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
+| Task 21. Game theory. Сhallenges |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
 | Task 23. Tree traversal          |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![80%](https://progress-bar.dev/80/)|
 
 
