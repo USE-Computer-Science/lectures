@@ -10,7 +10,7 @@
 | Task 13. Directed graphs         |![100%](https://progress-bar.dev/100/)|![90%](https://progress-bar.dev/90/)|![80%](https://progress-bar.dev/80/)|
 | Task 16. Recursion               |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![90%](https://progress-bar.dev/90/)| 
 | Task 17. Numerical series        |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
-| Task 19. Game theory. One heap   |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
+| Task 19. Game theory. One heap   |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![60%](https://progress-bar.dev/60/)|
 | Task 20. Game theory. Two heaps  |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
 | Task 21. Game theory. Сhallenges |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|
 | Task 23. Tree traversal          |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![80%](https://progress-bar.dev/80/)|
