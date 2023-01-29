@@ -9,7 +9,7 @@
 | Task 9. Spreadsheets             |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
 | Task 13. Directed graphs         |![100%](https://progress-bar.dev/100/)|![90%](https://progress-bar.dev/90/)|![80%](https://progress-bar.dev/80/)|
 | Task 14. Numeral systems         |![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)|![0%](https://progress-bar.dev/0/)| 
-| Task 15. Logical expressions     |![75%](https://progress-bar.dev/75/)|![75%](https://progress-bar.dev/75/)|![35%](https://progress-bar.dev/35/)| 
+| Task 15. Logical expressions     |![75%](https://progress-bar.dev/75/)|![35%](https://progress-bar.dev/35/)|![75%](https://progress-bar.dev/75/)| 
 | Task 16. Recursion               |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![90%](https://progress-bar.dev/90/)| 
 | Task 17. Numerical series        |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
 | Task 19. Game theory. One heap   |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
