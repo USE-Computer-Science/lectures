@@ -2,15 +2,15 @@
 
 | Тема домашнего задания                 | Артём   | Данил   | Камилла |
 | ---------------------------------------|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| Задание 1. Информационные модели          |![100%](https://progress-bar.dev/100/)|![85%](https://progress-bar.dev/85)|![90%](https://progress-bar.dev/90)|
-| Задание 2. Таблицы истинности             |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
-| Задание 3. Работа с базами данных         |![100%](https://progress-bar.dev/100/)|![80%](https://progress-bar.dev/80/)|![95%](https://progress-bar.dev/95/)|
-| Задание 4. Условие Фано                   |![90%](https://progress-bar.dev/90/)|![35%](https://progress-bar.dev/35/)|![40%](https://progress-bar.dev/40/)|
-| Задание 5. Битовые исполнители            |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
-| Задание 6. Циклические исполнители        |![90%](https://progress-bar.dev/90/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
-| Задание 7. Кодирование информации         |![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|![80%](https://progress-bar.dev/80/)|
-| Задание 8. Комбинаторика                  |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
-| Задание 9. Электронные таблицы            |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
+| Задание 1.  Информационные модели          |![100%](https://progress-bar.dev/100/)|![85%](https://progress-bar.dev/85)|![90%](https://progress-bar.dev/90)|
+| Задание 2.  Таблицы истинности             |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
+| Задание 3.  Работа с базами данных         |![100%](https://progress-bar.dev/100/)|![80%](https://progress-bar.dev/80/)|![95%](https://progress-bar.dev/95/)|
+| Задание 4.  Условие Фано                   |![90%](https://progress-bar.dev/90/)|![35%](https://progress-bar.dev/35/)|![40%](https://progress-bar.dev/40/)|
+| Задание 5.  Битовые исполнители            |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
+| Задание 6.  Циклические исполнители        |![90%](https://progress-bar.dev/90/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
+| Задание 7.  Кодирование информации         |![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|![80%](https://progress-bar.dev/80/)|
+| Задание 8.  Комбинаторика                  |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|
+| Задание 9.  Электронные таблицы            |![100%](https://progress-bar.dev/100/)|![95%](https://progress-bar.dev/95/)|![95%](https://progress-bar.dev/95/)|
 | Задание 11. Количество информации         |![100%](https://progress-bar.dev/100/)|![90%](https://progress-bar.dev/90/)|![60%](https://progress-bar.dev/60/)|
 | Задание 12. Циклы и ветвления             |![100%](https://progress-bar.dev/100/)|![80%](https://progress-bar.dev/80/)|![75%](https://progress-bar.dev/75/)|
 | Задание 13. Поиск путей в графах          |![100%](https://progress-bar.dev/100/)|![100%](https://progress-bar.dev/100/)|![80%](https://progress-bar.dev/80/)|
